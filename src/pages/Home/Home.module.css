@@ -1,0 +1,30 @@
+.container {
+    margin: 32px;
+}
+
+.title {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1C1C1E;
+    margin: 0 0 16px;
+}
+
+.subtitle {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1C1C1E;
+    margin: 0 0 24px;
+}
+
+.text {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin: 0 0 24px;
+}

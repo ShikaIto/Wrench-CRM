@@ -1,0 +1,35 @@
+.header {
+    position: sticky;
+    top: 0px;
+    display: flex;
+    padding: 16px 32px;
+    background-color: #4F27BF;
+    justify-content: space-between;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.text {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #fff;
+    margin: 0;
+}
+
+.logo {
+    width: 48px;
+    height: 48px;
+    margin-inline-end: 24px;
+}
+
+.user {
+    width: 48px;
+    height: 48px;
+    margin-inline-end: 16px;
+}
