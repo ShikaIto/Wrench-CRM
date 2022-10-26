@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Wrench-CRM/static/css/main.50945cea.css",
+    "main.css": "/Wrench-CRM/static/css/main.b5e69f33.css",
     "main.js": "/Wrench-CRM/static/js/main.0d7773a7.js",
     "static/media/Montserrat-Bold.woff": "/Wrench-CRM/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
     "static/media/Montserrat-Medium.woff": "/Wrench-CRM/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
@@ -23,11 +23,11 @@
     "static/media/widgets.svg": "/Wrench-CRM/static/media/widgets.c9299d23c7ec2b0c14b0320a9324fc92.svg",
     "static/media/home.svg": "/Wrench-CRM/static/media/home.10246988e25970190b5552b9e05b2f6a.svg",
     "static/media/hide.svg": "/Wrench-CRM/static/media/hide.fe04bfe848e3ad61738b4d14a746797d.svg",
-    "main.50945cea.css.map": "/Wrench-CRM/static/css/main.50945cea.css.map",
+    "main.b5e69f33.css.map": "/Wrench-CRM/static/css/main.b5e69f33.css.map",
     "main.0d7773a7.js.map": "/Wrench-CRM/static/js/main.0d7773a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.50945cea.css",
+    "static/css/main.b5e69f33.css",
     "static/js/main.0d7773a7.js"
   ]
 }
